@@ -3,6 +3,7 @@ session_start();
 include_once('connection.php');
 echo "<h1>Welcome Teacher</h1>";
 
+
 ?>
 
 <!DOCTYPE html>
